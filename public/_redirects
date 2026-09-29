@@ -1,0 +1,2 @@
+# Also included in out/ for a manual Netlify drag-and-drop deployment.
+/api/* /.netlify/functions/api/:splat 200!
